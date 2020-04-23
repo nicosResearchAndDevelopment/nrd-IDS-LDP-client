@@ -1,2 +1,5 @@
-# nrd-IDS-LDP-client
+# nrd-IDS-LDP-client-njs
+
 International Data Spaces "Linked Data Platform" client
+
+---
